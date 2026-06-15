@@ -19,7 +19,7 @@ The project goes beyond visualization by following a complete analytical approac
 
 ### Cover Page
 
-**Add Image Here**
+![Cover_Page](Images/Cover_Page.png)
 
 ---
 
@@ -31,15 +31,15 @@ Although revenue has grown over the years, the company still experiences increas
 
 Without a centralized analytical view, decision-makers struggle to identify:
 
-* Which categories truly drive profitability.
+* Which categories truly drive profitability?
 * Where losses are occurring.
-* Which customers and regions generate the most value.
+* Which customers and regions generate the most value?
 * Whether discount strategies improve or hurt profits.
 * How shipping practices impact operational costs.
 
-### Business Problem Page
+### Business_Problem Page
 
-**Add Image Here**
+![Business_Problem](Images/Business_Problem.png)
 
 ---
 
@@ -67,9 +67,9 @@ Analyze customer behavior while evaluating shipping costs and delivery efficienc
 
 Enable stakeholders to filter insights by Region, Year, and Segment for deeper analysis.
 
-### Requirements Page
+### Business_Requirements Page
 
-**Add Image Here**
+![Business_Requirements](Images/Business_Requirements.png)
 
 ---
 
@@ -87,9 +87,9 @@ This page provides a comprehensive overview of revenue performance across differ
 * Top sales states and cities.
 * Sales distribution analysis.
 
-### Sales Dashboard
+### Sales_Performance Dashboard
 
-**Add Image Here**
+![Sales_Performance](Images/Sales_Performance.png)
 
 ---
 
@@ -105,9 +105,9 @@ This page focuses on understanding profit performance and identifying areas that
 * Category contribution to profit.
 * Discount vs Profit analysis.
 
-### Profitability Dashboard
+### Profitability_Analysis Dashboard
 
-**Add Image Here**
+![Profitability_Analysis](Images/Profitability_Analysis.png)
 
 ---
 
@@ -125,7 +125,7 @@ This page analyzes customer distribution and operational efficiency.
 
 ### Customer & Operations Dashboard
 
-**Add Image Here**
+![Customer&Operations_Analysis](Images/Customer&Operations_Analysis.png)
 
 ---
 
@@ -207,9 +207,13 @@ Standard Class shipping accounts for the highest usage and shipping costs, makin
 
 A limited number of products contribute disproportionately to overall sales, creating both opportunity and risk.
 
-### Executive Insights Page
+### Performance&Profitability_Insights Page
 
-**Add Image Here**
+![Performance&Profitability_Insights](Images/Performance&Profitability_Insights.png)
+
+
+### Customers&Operations_Insights Page
+![Customers&Operations_Insights](Images/Customers&Operations_Insights.png)
 
 ---
 
@@ -241,9 +245,9 @@ Reduce dependency on a limited number of products and markets.
 
 Use the dashboard regularly to support strategic planning and monitor emerging risks.
 
-### Recommendations Page
+### Strategic_Recommendations Page
 
-**Add Image Here**
+![Strategic_Recommendations](Images/Strategic_Recommendations.png)
 
 ---
 
